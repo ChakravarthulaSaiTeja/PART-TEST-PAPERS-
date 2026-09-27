@@ -1,0 +1,149 @@
+Q1. $\dfrac{\sqrt{26-15\sqrt3}}{5\sqrt2-\sqrt{38+5\sqrt3}}=$
+   (A) $1$
+   (B) $\sqrt3$
+   (C) $-\sqrt3$
+   (D) $\dfrac{1}{\sqrt3}$
+
+Q2. $\sqrt[3]{16+8\sqrt5}+\sqrt[3]{16-8\sqrt5}=$
+   (A) $2$
+   (B) $1$
+   (C) $2\sqrt5$
+   (D) $\sqrt5$
+
+Q3. $\left[\sqrt[6]{13-4\sqrt3}+\sqrt[3]{\dfrac18-\dfrac{\sqrt3}{4}}\right]\sqrt[3]{1+2\sqrt3}=$
+   (A) $-1$
+   (B) $\sqrt[3]{11}$
+   (C) $\dfrac12\sqrt[3]{11}$
+   (D) $1$
+
+Q4. $\sqrt{\;\sqrt[4]{193-132\sqrt2}+\sqrt{3+2\sqrt2}\;}=$
+   (A) $2$
+   (B) $4$
+   (C) $1$
+   (D) $0$
+
+Q5. $\dfrac{1}{\sqrt{12-\sqrt{140}}}-\dfrac{1}{\sqrt{8-\sqrt{60}}}-\dfrac{2}{\sqrt{10+\sqrt{84}}}=$
+   (A) $-1$
+   (B) $\sqrt7+\sqrt5+\sqrt2$
+   (C) $0$
+   (D) $1$
+
+Q6. $\sqrt{\dfrac{6+2\sqrt3}{33-19\sqrt3}}=$
+   (A) $5+3\sqrt3$
+   (B) $5+\sqrt3$
+   (C) $5+2\sqrt3$
+   (D) $5+4\sqrt3$
+
+Q7. If $\left(1-\sqrt2-\sqrt3\right)^{-1}=a+b\sqrt2+c\sqrt6$, then $a+b+c=$
+   (A) $2$
+   (B) $\sqrt2$
+   (C) $1$
+   (D) $0$
+
+Q8. $\dfrac{2}{\sqrt[3]{9}-\sqrt[3]{3}+1}-\dfrac{1}{\sqrt[3]{9}+\sqrt[3]{3}+1}=$
+   (A) $-\sqrt[3]{3}$
+   (B) $\sqrt[3]{3}$
+   (C) $-1$
+   (D) $1$
+
+Q9. If $\left(4+\sqrt{15}\right)^{3/2}+\left(4-\sqrt{15}\right)^{3/2}=x\sqrt{10}$, then $x=$
+   (A) $4$
+   (B) $10$
+   (C) $5$
+   (D) $7$
+
+Q10. If $\left(6+\sqrt{35}\right)^{3/2}+\left(6-\sqrt{35}\right)^{3/2}=x\sqrt{14}$, then $x=$
+   (A) $9$
+   (B) $11$
+   (C) $13$
+   (D) $6$
+
+Q11. If $\sqrt[3]{a+\sqrt b}=7+4\sqrt3$, then $\sqrt[3]{a^{2}-b}=$
+   (A) $-1$
+   (B) $0$
+   (C) $1$
+   (D) $7$
+
+Q12. If $x=3^{2/3}+3^{-2/3}$, then $9x^{3}-27x=$
+   (A) $73$
+   (B) $82$
+   (C) $56$
+   (D) $63$
+
+Q13. If $x=\sqrt2+\sqrt3$, then $x^{4}-10x^{2}+1=$
+   (A) $0$
+   (B) $2$
+   (C) $-1$
+   (D) $1$
+
+Q14. If $\sqrt[3]{a}+\sqrt[3]{b}+\sqrt[3]{c}=0$, then $(a+b+c)^{3}=$
+   (A) $3abc$
+   (B) $27abc$
+   (C) $9abc$
+   (D) $abc$
+
+Q15. If $0<a<1$, then $\left[\dfrac{\sqrt{1+a}}{\sqrt{1+a}-\sqrt{1-a}}+\dfrac{1-a}{\sqrt{1-a^{2}}-1+a}\right]-\left[\sqrt{\dfrac{1}{a^{2}}-1}-\dfrac1a\right]=$
+   (A) $\dfrac3a$
+   (B) $2a$
+   (C) $3a$
+   (D) $\dfrac2a$
+
+Q16. $\sqrt{4+\sqrt5+\sqrt{17-4\sqrt{15}}}=$
+   (A) $\sqrt2+1$
+   (B) $\sqrt3-1$
+   (C) $\sqrt3+1$
+   (D) $\sqrt2-1$
+
+Q17. $\sqrt{3+\sqrt3-\sqrt{13+\sqrt{48}}}=$
+   (A) $\dfrac{\sqrt3+2}{\sqrt2}$
+   (B) $\dfrac{\sqrt3-1}{\sqrt2}$
+   (C) $\dfrac{\sqrt3-2\sqrt2}{\sqrt2}$
+   (D) $\dfrac{\sqrt3+1}{\sqrt2}$
+
+Q18. $\sqrt{\sqrt{27}-\sqrt8+\sqrt{17+12\sqrt2}-\sqrt{28-6\sqrt3}}=$
+   (A) $1$
+   (B) $2$
+   (C) $4$
+   (D) $3$
+
+Q19. $\sqrt{39-4\sqrt{21}-4\sqrt{35}+8\sqrt{15}}=$
+   (A) $3\sqrt2-2\sqrt3+\sqrt5$
+   (B) $2\sqrt5+2\sqrt3-\sqrt7$
+   (C) $2\sqrt7+2\sqrt3-\sqrt3$
+   (D) $2\sqrt2-2\sqrt3-\sqrt5$
+
+Q20. $2\sqrt{3+\sqrt{5-\sqrt{13+\sqrt{48}}}}=$
+   (A) $\sqrt6+\sqrt2$
+   (B) $\sqrt6-\sqrt2$
+   (C) $\sqrt3+\sqrt2$
+   (D) $\sqrt3-\sqrt2$
+
+Q21. $\sqrt{12+2\sqrt{15}+4\sqrt5+4\sqrt3}=$
+   (A) $2+\sqrt5+\sqrt2$
+   (B) $2+\sqrt3+\sqrt2$
+   (C) $2+\sqrt5+\sqrt3$
+   (D) $5+\sqrt3+\sqrt2$
+
+Q22. $\sqrt{\dfrac{21}{2}-\sqrt{70}+\sqrt{10}-2\sqrt7}=$
+   (A) $\dfrac{\sqrt{12}+\sqrt5-\sqrt2}{\sqrt2}$
+   (B) $\dfrac{\sqrt{14}-\sqrt4+\sqrt2}{\sqrt2}$
+   (C) $\dfrac{\sqrt{12}-\sqrt5-\sqrt2}{\sqrt2}$
+   (D) $\dfrac{\sqrt{14}-\sqrt5-\sqrt2}{\sqrt2}$
+
+Q23. $\sqrt{2(a+b)+2\sqrt{a^{2}+ab}-2\sqrt{ab}-2\sqrt{ab+b^{2}}}=$
+   (A) $\sqrt{a+b}+\sqrt a-\sqrt b$
+   (B) $\sqrt{a+b}+\sqrt a+\sqrt b$
+   (C) $\sqrt{a-b}+\sqrt a+\sqrt b$
+   (D) $\sqrt{a-b}+\sqrt a-\sqrt b$
+
+Q24. The cube root of $9ab^{2}+\left(b^{2}+24a^{2}\right)\sqrt{b^{2}-3a^{2}}$ is
+   (A) $3a+\sqrt{b^{2}-3a^{2}}$
+   (B) $2a+\sqrt{b^{2}-3a^{2}}$
+   (C) $3a-\sqrt{b^{2}-3a^{2}}$
+   (D) $2a-\sqrt{b^{2}-3a^{2}}$
+
+Q25. A rationalising factor of $2+\sqrt[4]{12}+\sqrt3$ is
+   (A) $\left(2+\sqrt[4]{12}-\sqrt3\right)\left(7+2\sqrt3\right)$
+   (B) $\left(2-\sqrt[4]{12}+3\right)\left(7+4\sqrt3\right)$
+   (C) $\left(2-\sqrt[4]{12}+\sqrt3\right)\left(7-2\sqrt3\right)$
+   (D) $\left(2-\sqrt[4]{12}+\sqrt3\right)\left(7+2\sqrt3\right)$

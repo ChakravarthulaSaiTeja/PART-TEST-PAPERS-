@@ -1,0 +1,149 @@
+Q1. $\left[\log_{1/2}\sqrt{\dfrac14}+6\log_{1/4}\!\left(\dfrac12\right)-2\log_{1/16}\!\left(\dfrac14\right)\right]\div\log_{\sqrt2}\sqrt[5]{8}=$
+   (A) $\dfrac52$
+   (B) $\dfrac{18}{5}$
+   (C) $3$
+   (D) $\dfrac65$
+
+Q2. $\left(\log_{\sqrt5}125\div\log_{5}^{2}25\right)\cdot\left(\log_{1/5}\sqrt5\div\log_{0.2}\sqrt[3]{25}\right)=$
+   (A) $\dfrac32$
+   (B) $\dfrac98$
+   (C) $\dfrac34$
+   (D) $\dfrac89$
+
+Q3. $\log_{2}\!\left(\dfrac{1}{4\sqrt4}\right)+\log_{3}\!\left(\dfrac{\sqrt[3]{3\sqrt3}}{27}\right)+\log_{4}\!\left(\dfrac{\sqrt[3]{8}}{128\sqrt2}\right)=$
+   (A) $-\dfrac{35}{4}$
+   (B) $-\dfrac{35}{2}$
+   (C) $-\dfrac{21}{4}$
+   (D) $-\dfrac{27}{4}$
+
+Q4. Given $\log 2=0.3010\ldots$, the number of digits in $2000^{2000}$ is
+   (A) $6603$
+   (B) $6602$
+   (C) $6604$
+   (D) $6601$
+
+Q5. Let $N$ be the number of digits in $64^{64}$. Then $N$ is (use $\log_{10}2=0.3010$)
+   (A) $78$
+   (B) $116$
+   (C) $144$
+   (D) $84$
+
+Q6. If $\log_{ab}a=4$ and $\log_{ab}\!\left(\dfrac{\sqrt[3]{a}}{\sqrt b}\right)=\dfrac pq$ where $p$ and $q$ are coprime, then $|p-q|$ equals
+   (A) $5$
+   (B) $6$
+   (C) $11$
+   (D) $17$
+
+Q7. If $x=\left(\text{antilog}_{2}3\right)\left(\text{antilog}_{3}4\right)$, $y=\text{antilog}_{6}2$ and $\dfrac xy=\dfrac pq$ in lowest terms $(p,q\in\mathbb N)$, then $p+q$ equals
+   (A) $17$
+   (B) $18$
+   (C) $20$
+   (D) $19$
+
+Q8. The number of zeros after the decimal point and before the first significant digit in $\left(\dfrac56\right)^{100}$ is
+   (A) $8$
+   (B) $7$
+   (C) $5$
+   (D) $10$
+
+Q9. $\left(\log_{8}27-\log_{0.5}\dfrac13\right)\cdot\left(\dfrac{\log_{3}12}{\log_{36}3}-\dfrac{\log_{3}4}{\log_{108}3}\right)=$
+   (A) $2$
+   (B) $0$
+   (C) $1$
+   (D) $-1$
+
+Q10. $\log_{\sqrt6}3\cdot\log_{3}36+\log_{\sqrt3}8\cdot\log_{4}81=$
+   (A) $16$
+   (B) $4$
+   (C) $20$
+   (D) $12$
+
+Q11. The number of solutions of $\log(2x)=2\log(4x-15)$ is
+   (A) $4$
+   (B) $3$
+   (C) $2$
+   (D) $1$
+
+Q12. The solution set of the equation $\log\!\left(8-10x-12x^{2}\right)=3\log(2x-1)$ is
+   (A) $\{5\}$
+   (B) $\{1\}$
+   (C) $\varnothing$
+   (D) $\{3,2\}$
+
+Q13. Suppose $\log_{10}(x-2)+\log_{10}y=0$ and $\sqrt x+\sqrt{y-2}=\sqrt{x+y}$. Then the value of $(x+y)$ is
+   (A) $2\sqrt2$
+   (B) $2+2\sqrt2$
+   (C) $2$
+   (D) $4+2\sqrt2$
+
+Q14. The real value of $x$ for which $\log_{6}9-\log_{9}27+\log_{8}x=\log_{64}x-\log_{6}4$ holds is
+   (A) $\dfrac18$
+   (B) $\dfrac12$
+   (C) $\dfrac{1}{16}$
+   (D) $\dfrac14$
+
+Q15. The reals $x$ and $y$ satisfy $\log_{8}x+\log_{4}y^{2}=5$ and $\log_{8}y+\log_{4}x^{2}=7$. The value of $xy$ is
+   (A) $2^{24}$
+   (B) $2^{9}$
+   (C) $2^{12}$
+   (D) $2^{18}$
+
+Q16. If $\log_{\sqrt2}\sqrt x+\log_{2}x+\log_{4}x^{2}+\log_{8}x^{3}+\log_{16}x^{4}=40$, then $x$ equals
+   (A) $128$
+   (B) $64$
+   (C) $256$
+   (D) $32$
+
+Q17. Let $B,C,P,L$ be positive reals with $\log(BL)+\log(BP)=2$, $\log(PL)+\log(PC)=3$ and $\log(CB)+\log(CL)=4$ (base $10$). Then the product $BCPL$ equals
+   (A) $10^{2}$
+   (B) $10^{9}$
+   (C) $10^{4}$
+   (D) $10^{3}$
+
+Q18. Let $u=\left(\log_{2}x\right)^{2}-6\log_{2}x+12$ where $x$ is real. Then the equation $x^{u}=256$ has
+   (A) exactly one solution for $x$
+   (B) no solution for $x$
+   (C) exactly two distinct solutions for $x$
+   (D) exactly three distinct solutions for $x$
+
+Q19. If $(49)^{3\log_{\sqrt{343}}\sqrt x}-2x-3=0$, then $x$ equals
+   (A) $-1$
+   (B) $1$
+   (C) $3$
+   (D) $2$
+
+Q20. If $\log_{8}a+\log_{8}b=\left(\log_{8}a\right)\left(\log_{8}b\right)$ and $\log_{a}b=3$, then the value of $a$ is
+   (A) $2$
+   (B) $8$
+   (C) $15$
+   (D) $16$
+
+Q21. Let $N=(2+1)\left(2^{2}+1\right)\left(2^{4}+1\right)\cdots\left(2^{32}+1\right)+1$. Then $\log_{256}N$ equals
+   (A) $32$
+   (B) $15$
+   (C) $8$
+   (D) $16$
+
+Q22. If $(21.4)^{a}=(0.00214)^{b}=100$, then the value of $\dfrac1a-\dfrac1b$ is
+   (A) $4$
+   (B) $0$
+   (C) $1$
+   (D) $2$
+
+Q23. The reals $x$ and $y$ satisfy $\log_{16}x+\log_{4}y^{2}=9$ and $\log_{16}y+\log_{4}x^{2}=6$. Then $xy$ equals
+   (A) $2^{-12}$
+   (B) $24$
+   (C) $2^{12}$
+   (D) $3^{12}$
+
+Q24. Given $\log_{10}2=0.3010$ and $\log_{10}3=0.4771$, the number of digits in $6^{100}$ is
+   (A) $76$
+   (B) $77$
+   (C) $75$
+   (D) $78$
+
+Q25. Given $\log_{10}2=0.3010$ and $\log_{10}5=0.6990$, the number of zeros after the decimal point and before the first significant digit of $10^{\,100\left(\log_{10}2-\log_{10}5\right)}$ is
+   (A) $39$
+   (B) $38$
+   (C) $37$
+   (D) $40$

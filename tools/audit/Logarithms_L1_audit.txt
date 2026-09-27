@@ -1,0 +1,149 @@
+Q1. The value of $\log_{0.01}1000+\log_{0.1}0.0001$ is
+   (A) $-\dfrac52$
+   (B) $\dfrac52$
+   (C) $-10$
+   (D) $-2$
+
+Q2. If $\log_{2}\!\left(\log_{3}(\log_{4}x)\right)=0$, $\log_{3}\!\left(\log_{4}(\log_{2}y)\right)=0$ and $\log_{4}\!\left(\log_{2}(\log_{3}z)\right)=0$, then $x+y+z$ is
+   (A) $58$
+   (B) $50$
+   (C) $89$
+   (D) $105$
+
+Q3. If $\log_{2}\!\left(4+\log_{3}x\right)=3$, then the sum of the digits of $x$ is
+   (A) $6$
+   (B) $18$
+   (C) $9$
+   (D) $3$
+
+Q4. The value of $\log_{3}\!\left(\log_{2}\!\left(\log_{\sqrt3}81\right)\right)$ is
+   (A) $1$
+   (B) $0$
+   (C) $3$
+   (D) $2$
+
+Q5. $\log_{3}\!\left[\log_{2}^{2}\!\left(\dfrac12\right)+6\log_{2}\sqrt2+5\right]=$
+   (A) $9$
+   (B) $3$
+   (C) $2$
+   (D) $1$
+
+Q6. $\log\dfrac{75}{16}-2\log\dfrac59+\log\dfrac{32}{243}=$
+   (A) $1$
+   (B) $0$
+   (C) $\log 3$
+   (D) $\log 2$
+
+Q7. $x^{\ln y-\ln z}\cdot y^{\ln z-\ln x}\cdot z^{\ln x-\ln y}=$
+   (A) $1$
+   (B) $0$
+   (C) $xyz$
+   (D) $x+y+z$
+
+Q8. $\dfrac{\log_{2}32}{\log_{3}\sqrt{243}}=$
+   (A) $\dfrac52$
+   (B) $2$
+   (C) $\dfrac12$
+   (D) $5$
+
+Q9. $\dfrac{2\log 6}{\log 12+\log 3}=$
+   (A) $\dfrac12$
+   (B) $2$
+   (C) $\log 2$
+   (D) $1$
+
+Q10. $\log_{1/4}\!\left(\dfrac{1}{16}\right)^{-2}=$
+   (A) $2$
+   (B) $4$
+   (C) $-4$
+   (D) $-2$
+
+Q11. $\dfrac{\log_{5}16-\log_{5}4}{\log_{5}128}=$
+   (A) $\dfrac27$
+   (B) $\dfrac12$
+   (C) $\dfrac47$
+   (D) $\dfrac74$
+
+Q12. If $\log x+\log 5=\log x^{2}-\log 14$ (base $10$), then $x$ equals
+   (A) $0$
+   (B) $70^{2}$
+   (C) $2^{70}$
+   (D) $70$
+
+Q13. If $a^{4}\cdot b^{5}=1$, then $\log_{a}\!\left(a^{5}b^{4}\right)$ equals
+   (A) $5$
+   (B) $4$
+   (C) $\dfrac85$
+   (D) $\dfrac95$
+
+Q14. Given $\log_{10}2=a$ and $\log_{10}3=b$. If $3^{\,x+2}=45$, then $x$ in terms of $a$ and $b$ is
+   (A) $\dfrac{1+a}{b}$
+   (B) $\dfrac{1-a}{b}$
+   (C) $\dfrac{b}{1-a}$
+   (D) $\dfrac{a-1}{b}$
+
+Q15. If $\log_{y}x+\log_{x}y=7$, then $\left(\log_{y}x\right)^{2}+\left(\log_{x}y\right)^{2}$ is
+   (A) $47$
+   (B) $45$
+   (C) $49$
+   (D) $43$
+
+Q16. The antilogarithm of $0.\overline{6}$ to the base $27$ is
+   (A) $3$
+   (B) $27$
+   (C) $9$
+   (D) $18$
+
+Q17. The characteristic of the logarithm of $2008$ to the base $2$ is
+   (A) $11$
+   (B) $10$
+   (C) $12$
+   (D) $9$
+
+Q18. The value of $b$ satisfying $\log_{e}2\cdot\log_{b}625=\log_{10}16\cdot\log_{e}10$ is
+   (A) $25$
+   (B) $4$
+   (C) $8$
+   (D) $5$
+
+Q19. $\dfrac{1}{1+\log_{b}a+\log_{b}c}+\dfrac{1}{1+\log_{c}a+\log_{c}b}+\dfrac{1}{1+\log_{a}b+\log_{a}c}=$
+   (A) $1$
+   (B) $0$
+   (C) $abc$
+   (D) $\log(abc)$
+
+Q20. The sum of all the solutions of the equation $2\log x-\log(2x-75)=2$ is
+   (A) $200$
+   (B) $30$
+   (C) $75$
+   (D) $350$
+
+Q21. Let $x=2^{\log 3}$ and $y=3^{\log 2}$, where the base of the logarithm is $10$. Then which one of the following holds good?
+   (A) $2y<x$
+   (B) $2x<y$
+   (C) $3x=2y$
+   (D) $y=x$
+
+Q22. If $4^{\log_{9}3}+9^{\log_{2}4}=10^{\log_{x}83}$ $(x\in\mathbb{R})$, then $x$ is
+   (A) $83$
+   (B) $10$
+   (C) $8$
+   (D) $\dfrac{1}{10}$
+
+Q23. If $\log_{3}x=p$ and $\log_{7}x=q$, which of the following yields $\log_{21}x$?
+   (A) $\dfrac{1}{p^{-1}+q^{-1}}$
+   (B) $\dfrac{1}{p+q}$
+   (C) $\dfrac{pq}{p^{-1}+q^{-1}}$
+   (D) $pq$
+
+Q24. When the repeating decimal $0.363636\ldots$ is written as a fraction in lowest terms, the sum of its numerator and denominator is
+   (A) $20$
+   (B) $15$
+   (C) $8$
+   (D) $16$
+
+Q25. The value of $7^{\log_{28}112}\cdot 4^{\log_{28}4}$ is
+   (A) $112$
+   (B) $12$
+   (C) $28$
+   (D) $14$

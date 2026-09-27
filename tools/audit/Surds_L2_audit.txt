@@ -1,0 +1,149 @@
+Q1. $\dfrac{\sqrt2}{\sqrt{3+\sqrt5}-\sqrt{3-\sqrt5}}=$
+   (A) $1$
+   (B) $2\sqrt5$
+   (C) $\sqrt5$
+   (D) $\sqrt2$
+
+Q2. $\dfrac{3+\sqrt6}{5\sqrt3-2\sqrt{12}-\sqrt{32}+\sqrt{50}}=$
+   (A) $\dfrac13$
+   (B) $\sqrt3$
+   (C) $-\sqrt3$
+   (D) $3$
+
+Q3. $\sqrt[3]{20+14\sqrt2}-\sqrt[3]{-20+14\sqrt2}=$
+   (A) $4$
+   (B) $\sqrt2$
+   (C) $2\sqrt2$
+   (D) $2$
+
+Q4. $\dfrac{15}{\sqrt{10}+\sqrt{20}+\sqrt{40}-\sqrt5-\sqrt{80}}=$
+   (A) $\sqrt{10}+\sqrt5$
+   (B) $\sqrt{10}+5$
+   (C) $10+\sqrt5$
+   (D) none of these
+
+Q5. A rationalising factor of $\sqrt[4]{3}+\sqrt[4]{2}$ is
+   (A) $\left(\sqrt[4]{3}-\sqrt[4]{2}\right)\left(\sqrt2-\sqrt3\right)$
+   (B) $\left(\sqrt[4]{3}-\sqrt[4]{2}\right)\left(\sqrt3+\sqrt2\right)$
+   (C) $\left(\sqrt[4]{3}-\sqrt[4]{2}\right)\left(\sqrt3-\sqrt2\right)$
+   (D) $\left(\sqrt[4]{2}-\sqrt[4]{3}\right)\left(\sqrt3-\sqrt2\right)$
+
+Q6. If $x=\dfrac{\sqrt2+1}{\sqrt2-1}$, then $x^{3}+\dfrac{1}{x^{3}}=$
+   (A) $192$
+   (B) $112$
+   (C) $198$
+   (D) $216$
+
+Q7. If $x=\dfrac{\sqrt3-\sqrt2}{\sqrt3+\sqrt2}$, then $x^{4}+\dfrac{1}{x^{4}}=$
+   (A) $8642$
+   (B) $11132$
+   (C) $10104$
+   (D) $9602$
+
+Q8. If $x=2-\sqrt3$, then $x^{4}-4x^{3}+2x^{2}-4x+5=$
+   (A) $-4$
+   (B) $4$
+   (C) $6$
+   (D) $0$
+
+Q9. If $x=\dfrac{\sqrt5+\sqrt2}{\sqrt5-\sqrt2}$ and $y=\dfrac{\sqrt5-\sqrt2}{\sqrt5+\sqrt2}$, then $3x^{2}-4xy+3y^{2}=$
+   (A) $0$
+   (B) $\dfrac{166}{3}$
+   (C) $\dfrac{133}{3}$
+   (D) $\dfrac{196}{3}$
+
+Q10. If $x=\dfrac{\sqrt7-\sqrt5}{\sqrt7+\sqrt5}$ and $y=\dfrac{\sqrt7+\sqrt5}{\sqrt7-\sqrt5}$, then $x^{3}+y^{3}=$
+   (A) $1692$
+   (B) $142$
+   (C) $1894$
+   (D) $1456$
+
+Q11. If $x=7+4\sqrt3$ and $xy=1$, then $\dfrac{1}{x^{2}}+\dfrac{1}{y^{2}}=$
+   (A) $\dfrac{1}{49}$
+   (B) $134$
+   (C) $64$
+   (D) $194$
+
+Q12. The square root of $134-\sqrt{6292}$ is
+   (A) $12+\sqrt{13}$
+   (B) $11+\sqrt{13}$
+   (C) $11-\sqrt{13}$
+   (D) $12-\sqrt{13}$
+
+Q13. The positive square root of $12\sqrt5+2\sqrt{55}$ is
+   (A) $\sqrt[4]{2}\left(\sqrt{14}+1\right)$
+   (B) $\sqrt[4]{5}\left(\sqrt{11}+1\right)$
+   (C) $\sqrt[4]{3}\left(\sqrt{13}+1\right)$
+   (D) $\sqrt[4]{5}\left(\sqrt{12}+1\right)$
+
+Q14. The positive square root of $5\sqrt2+4\sqrt3$ is
+   (A) $\sqrt[4]{2}\left(\sqrt3+\sqrt2\right)$
+   (B) $\sqrt[4]{7}\left(\sqrt3+\sqrt2\right)$
+   (C) $\sqrt[4]{2}\left(\sqrt5+\sqrt2\right)$
+   (D) $\sqrt[4]{7}\left(\sqrt5+\sqrt2\right)$
+
+Q15. The positive square root of $\sqrt{32}-\sqrt{24}$ is
+   (A) $\sqrt[4]{2}\left(\sqrt2-\sqrt3\right)$
+   (B) $\sqrt[4]{2}\left(\sqrt3-1\right)$
+   (C) $\sqrt[4]{2}\left(\sqrt2-1\right)$
+   (D) $\sqrt[4]{2}\left(\sqrt3-\sqrt2\right)$
+
+Q16. The positive square root of $8\sqrt3-6\sqrt5$ is
+   (A) $\sqrt[3]{3}\left(\sqrt5-\sqrt3\right)$
+   (B) $\sqrt3\left(\sqrt5-\sqrt3\right)$
+   (C) $\sqrt[4]{3}\left(\sqrt5-\sqrt3\right)$
+   (D) $\sqrt5-\sqrt3$
+
+Q17. The positive square root of $11\sqrt7+28$ is
+   (A) $\sqrt[4]{7}\left(\sqrt5+2\right)$
+   (B) $\sqrt[4]{7}\left(\sqrt6+2\right)$
+   (C) $\sqrt[4]{7}\left(\sqrt3+2\right)$
+   (D) $\sqrt[4]{7}\left(\sqrt7+2\right)$
+
+Q18. The positive square root of $7\sqrt3-12$ is
+   (A) $\sqrt[4]{3}\left(2-\sqrt3\right)$
+   (B) $2-\sqrt3$
+   (C) $\sqrt3\left(2-\sqrt3\right)$
+   (D) $\sqrt[4]{3}\left(3-\sqrt2\right)$
+
+Q19. The positive square root of $14\sqrt5-30$ is
+   (A) $\sqrt[4]{2}\left(\sqrt3-2\right)$
+   (B) $\sqrt[4]{5}\left(\sqrt3-5\right)$
+   (C) $\sqrt[4]{5}\left(3-\sqrt5\right)$
+   (D) $\sqrt[4]{5}\left(\sqrt3-\sqrt2\right)$
+
+Q20. $\sqrt[4]{124+32\sqrt{15}}=$
+   (A) $\sqrt5+2$
+   (B) $\sqrt5+\sqrt2$
+   (C) $\sqrt3+\sqrt2$
+   (D) $\sqrt5+\sqrt3$
+
+Q21. $\sqrt[4]{49-20\sqrt6}=$
+   (A) $\sqrt2-\sqrt3$
+   (B) $\sqrt7-\sqrt3$
+   (C) $\sqrt3-\sqrt2$
+   (D) $\sqrt7-\sqrt2$
+
+Q22. $\sqrt[4]{137-36\sqrt{14}}=$
+   (A) $\sqrt2-\sqrt3$
+   (B) $5-\sqrt3$
+   (C) $6-\sqrt3$
+   (D) $\sqrt7-\sqrt2$
+
+Q23. $\sqrt[4]{\dfrac{7+4\sqrt3}{4}}=$
+   (A) $\dfrac{\sqrt3+1}{\sqrt2}$
+   (B) $\sqrt3-1$
+   (C) $\dfrac{\sqrt3+1}{2}$
+   (D) $\sqrt3+1$
+
+Q24. $\left(\sqrt{12+2\sqrt6}+\sqrt{12-2\sqrt6}\right)^{2}=$
+   (A) $4\sqrt{30}$
+   (B) $24$
+   (C) $24-4\sqrt{30}$
+   (D) $24+4\sqrt{30}$
+
+Q25. $\dfrac{\sqrt{8+\sqrt{28}}+\sqrt{8-\sqrt{28}}}{\sqrt{8+\sqrt{28}}-\sqrt{8-\sqrt{28}}}=$
+   (A) $\sqrt7$
+   (B) $7$
+   (C) $2$
+   (D) $\sqrt2$

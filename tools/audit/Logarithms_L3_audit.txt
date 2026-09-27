@@ -1,0 +1,153 @@
+Q1. How many distinct real numbers belong to the following collection?
+    \[\left\{\ln\!\left(4-\sqrt{15}\right),\ \ln\!\left(4+\sqrt{15}\right),\
+    -\ln\!\left(4-\sqrt{15}\right),\ -\ln\!\left(4+\sqrt{15}\right),\
+    \ln\!\left(\frac{4+\sqrt{15}}{4-\sqrt{15}}\right),\
+    \ln\!\left(31+8\sqrt{15}\right)\right\}\]
+   (A) $2$
+   (B) $4$
+   (C) $5$
+   (D) $3$
+
+Q2. $\log_{10}\!\left(\log_{2}3\right)+\log_{10}\!\left(\log_{3}4\right)+\log_{10}\!\left(\log_{4}5\right)+\cdots+\log_{10}\!\left(\log_{1023}1024\right)$ simplifies to
+   (A) an integer
+   (B) a composite number
+   (C) a rational which is not an integer
+   (D) a prime number
+
+Q3. The product of all values of $x$ which make the statement $\left(\log_{3}x\right)\left(\log_{5}9\right)-\log_{x}25+\log_{3}2=\log_{3}54$ true is
+   (A) $5$
+   (B) $25$
+   (C) $5\sqrt5$
+   (D) $\sqrt5$
+
+Q4. If $x_{1}$ and $x_{2}$ satisfy the equation $x^{\log_{10}x}=100x$, then the value of $x_{1}x_{2}$ equals
+   (A) $10$
+   (B) $1000$
+   (C) $100$
+   (D) $1$
+
+Q5. The sum of the squares of the roots of the equation $\log_{2}\!\left(9-2^{x}\right)=3-x$ is
+   (A) $5$
+   (B) $10$
+   (C) $9$
+   (D) $3$
+
+Q6. If $\log_{1/8}\!\left(\log_{1/4}\!\left(\log_{1/2}x\right)\right)=\dfrac13$, then $x$ is
+   (A) $\dfrac{1}{\sqrt2}$
+   (B) $\sqrt2$
+   (C) $\dfrac12$
+   (D) $2$
+
+Q7. Let $\log_{b}a=3$ and $\log_{b}c=-4$. If the value of $x$ satisfying $a^{3x}=c^{\,x-1}$ is $\dfrac pq$ with $p,q$ relatively prime, then $p+q$ is
+   (A) $9$
+   (B) $21$
+   (C) $13$
+   (D) $17$
+
+Q8. Let $x=\log 2$, $y=\log 3$ and $a+bx+cy=\bigl[\log 1+\log(1+3)+\log(1+3+5)+\cdots+\log(1+3+5+\cdots+19)\bigr]-2\bigl[\log 1+\log 2+\log 3+\cdots+\log 7\bigr]$, where $a,b,c$ are positive integers. Then $2a+3b+5c$ equals
+   (A) $50$
+   (B) $34$
+   (C) $28$
+   (D) $42$
+
+Q9. The number of values of $x$ satisfying $\log_{10}\!\left(2^{x+1}+x-37\right)=x\left(1-\log_{10}5\right)$ is
+   (A) $0$
+   (B) $3$
+   (C) $2$
+   (D) $1$
+
+Q10. The solution set of the equation $\log_{x}2\cdot\log_{2x}2=\log_{4x}2$ is
+   (A) $\left\{\dfrac14,\,2^{2}\right\}$
+   (B) $\left\{2^{-\sqrt2},\,2^{\sqrt2}\right\}$
+   (C) $\left\{\dfrac12,\,2\right\}$
+   (D) none of these
+
+Q11. If $\left|x-5\right|^{\,x^{2}-3x-10}=1$, then the sum of all solutions is
+   (A) $3$
+   (B) $15$
+   (C) $8$
+   (D) $13$
+
+Q12. The sum of the solutions of the equation $3^{2x+1}+2\cdot3^{x}\cdot7^{x}-3\cdot7^{2x+1}=0$ is
+   (A) $1$
+   (B) $-1$
+   (C) $2$
+   (D) $0$
+
+Q13. The values of $x$ satisfying $5^{6x^{2}}-2\cdot5^{3x^{2}+5x+2}+5^{10x+4}=0$ are
+   (A) $2,\ -\dfrac13$
+   (B) $-2,\ \dfrac23$
+   (C) $-2,\ -\dfrac13$
+   (D) $2,\ \dfrac23$
+
+Q14. Which of the following is true?
+   (A) $3^{150}>6^{100}>2^{200}$
+   (B) $6^{100}>3^{150}>2^{200}$
+   (C) $6^{100}>2^{200}>3^{150}$
+   (D) $3^{150}>2^{200}>6^{100}$
+
+Q15. The product of the solutions of the equation $\left|\log_{\sqrt3}x-2\right|-\left|\log_{3}x-2\right|=2$ is
+   (A) $2$
+   (B) $3$
+   (C) $-1$
+   (D) $1$
+
+Q16. If $\alpha$ and $\beta$ are the solutions of $6^{x}-3^{2x-1}-2^{2x-1}+6^{\,x-1}=0$, then
+   (A) $\alpha+\beta=0$
+   (B) $\alpha+\beta=\dfrac{1}{1-\log_{2}3}$
+   (C) $\alpha+\beta=1$
+   (D) $\alpha+\beta=\log_{2}3$
+
+Q17. If $2^{2x+1}=3^{y}$ and $3^{2y+1}=2^{x}$, then $(x-y)$ is equal to
+   (A) $\log_{3}2-\log_{2}3$
+   (B) $\dfrac{\log_{3}2-\log_{2}3}{3}$
+   (C) $\dfrac{\log_{3}2+\log_{2}3}{3}$
+   (D) $\log_{3}2+\log_{2}3$
+
+Q18. The root of the equation $\sqrt{\left(\log_{2}x\right)^{2}-4\log_{2}x+19}=\log_{2}\!\left(x^{2}+12\right)$, where $x>1$ and $\log_{2}x,\ \log_{2}\!\left(x^{2}+12\right)$ are integers, is
+   (A) $4$
+   (B) $2$
+   (C) $5$
+   (D) $3$
+
+Q19. The product of all real values of $t$ satisfying $\left|5^{\log_{5}^{2}t}-25\right|-4\,t^{\log_{5}t}=0$ is
+   (A) $125$
+   (B) $1$
+   (C) $25$
+   (D) $5$
+
+Q20. Which one of the following is incorrect?
+   (A) $\log_{2}3>\log_{3}11$
+   (B) If $\dfrac{\log_{8}\!\left(8/x^{2}\right)}{\left(\log_{8}x\right)^{2}}=3$ then $x=\dfrac18$ or $2$
+   (C) $\displaystyle\sum_{r=1}^{n}\log_{n!}r=1$ for $n\ge2$
+   (D) $\sqrt[3]{5^{\,1/\log_{7}5}+\dfrac{1}{\sqrt{-\log_{10}0.1}}}=2$
+
+Q21. If $\log_{2}x=\log_{7}8$, $\log_{3}y=\log_{5}9$ and $\log_{5}z=\log_{11}25$, then $x^{\left(\log_{2}7\right)^{2}}+y^{\left(\log_{3}5\right)^{2}}+z^{\left(\log_{5}11\right)^{2}}$ equals
+   (A) $389$
+   (B) $289$
+   (C) $489$
+   (D) $589$
+
+Q22. Let $\alpha,\beta,\gamma$ be distinct reals with $\dfrac{1}{(\alpha-\beta)^{2}}+\dfrac{1}{(\beta-\gamma)^{2}}+\dfrac{1}{(\gamma-\alpha)^{2}}=5^{\,2\left[\log_{5}11-\log_{5}9\right]}$. Then $\left(\dfrac{1}{\alpha-\beta}+\dfrac{1}{\beta-\gamma}+\dfrac{1}{\gamma-\alpha}\right)^{2}$ is
+   (A) $\dfrac{9}{11}$
+   (B) $\dfrac{11}{9}$
+   (C) $\dfrac{81}{121}$
+   (D) $\dfrac{121}{81}$
+
+Q23. Let $p,q$ be the roots of $x^{2}+2bx+c=0$ and let $2\log\!\left(\sqrt{y-p}+\sqrt{y-q}\right)=\log a+\log\!\left(y+b+\sqrt{y^{2}+2by+c}\right)$ wherever defined. Then $a$ is
+   (A) $2$
+   (B) $4$
+   (C) $0$
+   (D) $1$
+
+Q24. If $\dfrac1p-\dfrac1q=\dfrac1q-\dfrac1r$, then $\dfrac{\log(p-r)}{\log(p+r)+\log(p-2q+r)}$ equals (assume all terms are defined)
+   (A) $\dfrac12$
+   (B) $1$
+   (C) $\dfrac14$
+   (D) $4$
+
+Q25. If $a,b,c$ are positive reals, then $\dfrac{(ab)^{\log\frac ab}\cdot(bc)^{\log\frac bc}\cdot(ca)^{\log\frac ca}}{a^{\log\frac bc}\cdot b^{\log\frac ca}\cdot c^{\log\frac ab}}$ is equal to
+   (A) $-1$
+   (B) $0$
+   (C) $1$
+   (D) none of these

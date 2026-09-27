@@ -1,0 +1,149 @@
+Q1. $\left(28-10\sqrt3\right)^{1/2}-\left(7+4\sqrt3\right)^{-1/2}=$
+   (A) $3$
+   (B) $\dfrac{1}{\sqrt3}$
+   (C) $\sqrt3$
+   (D) $\dfrac13$
+
+Q2. The greatest number among $\sqrt2,\ \sqrt[3]{3},\ \sqrt[5]{5}$ is
+   (A) $\sqrt2$
+   (B) $\sqrt[3]{3}$
+   (C) $\sqrt[5]{5}$
+   (D) not determined
+
+Q3. The smallest number among $\sqrt{10}-\sqrt5,\ \sqrt{19}-\sqrt{14},\ \sqrt{22}-\sqrt{17}$ is
+   (A) $\sqrt{10}-\sqrt5$
+   (B) $\sqrt{19}-\sqrt{14}$
+   (C) $\sqrt{22}-\sqrt{17}$
+   (D) not determined
+
+Q4. The greatest number among $\sqrt{22}+\sqrt{21},\ \sqrt{23}+\sqrt{20},\ \sqrt{24}+\sqrt{19}$ is
+   (A) $\sqrt{23}+\sqrt{20}$
+   (B) $\sqrt{24}+\sqrt{19}$
+   (C) $\sqrt{22}+\sqrt{21}$
+   (D) not determined
+
+Q5. If $x>2$, then $\sqrt{x+2\sqrt{x-1}}+\sqrt{x-2\sqrt{x-1}}=$
+   (A) $\sqrt{x-1}$
+   (B) $2\sqrt{x-1}$
+   (C) $2$
+   (D) $1$
+
+Q6. If $1\le x\le 2$, then $\sqrt{x+2\sqrt{x-1}}+\sqrt{x-2\sqrt{x-1}}=$
+   (A) $\sqrt{x-1}$
+   (B) $2\sqrt{x-1}$
+   (C) $1$
+   (D) $2$
+
+Q7. $\sqrt{7-3\sqrt5}+\sqrt{3+\sqrt5}=$
+   (A) $2\sqrt2$
+   (B) $2\sqrt5$
+   (C) $3\sqrt5$
+   (D) $3\sqrt3$
+
+Q8. $\dfrac{\sqrt7}{\sqrt{16+6\sqrt7}-\sqrt{16-6\sqrt7}}$ is
+   (A) an irrational number
+   (B) a complex number
+   (C) a rational number
+   (D) none of these
+
+Q9. $\dfrac{\sqrt{5/2}+\sqrt{7-3\sqrt5}}{\sqrt{7/2}+\sqrt{16-5\sqrt7}}$ is
+   (A) a complex number
+   (B) an irrational number
+   (C) a rational number
+   (D) none of these
+
+Q10. $\dfrac{\sqrt{15-5\sqrt5}}{\sqrt2+\sqrt{7-3\sqrt5}}=$
+   (A) $5$
+   (B) $\sqrt5$
+   (C) $\sqrt2$
+   (D) $1$
+
+Q11. If $x=\dfrac{1}{12}$, then $\sqrt{\dfrac34-x}+\sqrt{2x}-\dfrac32\sqrt{1-4x}=$
+   (A) $0$
+   (B) $-1$
+   (C) $1$
+   (D) none of these
+
+Q12. A rationalising factor of $a^{1/3}+a^{-1/3}$ is
+   (A) $a^{1/3}-a^{-1/3}$
+   (B) $a^{2/3}+a^{-2/3}-1$
+   (C) $a^{2/3}-a^{-2/3}$
+   (D) $a^{1/3}+a^{-1/3}$
+
+Q13. A rationalising factor of $\sqrt[3]{16}+\sqrt[3]{4}+1$ is
+   (A) $4^{1/3}-1$
+   (B) $2^{1/3}-1$
+   (C) $4^{1/3}+1$
+   (D) $2^{1/3}+1$
+
+Q14. $\dfrac{3\sqrt2}{\sqrt6+\sqrt3}-\dfrac{4\sqrt3}{\sqrt6+\sqrt2}+\dfrac{\sqrt6}{\sqrt3+\sqrt2}=$
+   (A) $4$
+   (B) $2$
+   (C) $1$
+   (D) $0$
+
+Q15. $\dfrac{1}{1+\sqrt3}+\dfrac{1}{\sqrt3+\sqrt5}+\dfrac{1}{\sqrt5+\sqrt7}+\cdots$ to $40$ terms $=$
+   (A) $\dfrac{\sqrt{41}-1}{2}$
+   (B) $4$
+   (C) $1$
+   (D) $0$
+
+Q16. If $f(x)=\dfrac{1}{\sqrt{x+2\sqrt{2x-4}}}+\dfrac{1}{\sqrt{x-2\sqrt{2x-4}}}$ for $x>2$, then $f(11)=$
+   (A) $\dfrac67$
+   (B) $\dfrac56$
+   (C) $\dfrac57$
+   (D) $\dfrac76$
+
+Q17. $\dfrac{2\left(\sqrt3-1\right)^{2}}{3\left(\sqrt3-1\right)^{2}-2}=$
+   (A) $\sqrt3+1$
+   (B) $\sqrt2+1$
+   (C) $-\left(\sqrt3+1\right)$
+   (D) $-\left(\sqrt2+1\right)$
+
+Q18. $\sqrt{6+2\sqrt3+2\sqrt2+2\sqrt6}-\dfrac{1}{\sqrt{5+2\sqrt6}}=$
+   (A) $-1$
+   (B) $1$
+   (C) $0$
+   (D) none of these
+
+Q19. If $x=\dfrac{\sqrt5+1}{\sqrt5-1}$ and $y=\dfrac{\sqrt5-1}{\sqrt5+1}$, then $x^{2}+xy+y^{2}=$
+   (A) $7$
+   (B) $9$
+   (C) $8$
+   (D) $6$
+
+Q20. $\dfrac{1}{1+\sqrt2}+\dfrac{1}{\sqrt2+\sqrt3}+\dfrac{1}{\sqrt3+\sqrt4}+\cdots+\dfrac{1}{\sqrt{99}+\sqrt{100}}=$
+   (A) $8$
+   (B) $9$
+   (C) $10$
+   (D) $11$
+
+Q21. If $a=\sqrt[3]{2}+\sqrt[3]{4}$, then $a^{3}-6a=$
+   (A) $2$
+   (B) $8$
+   (C) $4$
+   (D) $6$
+
+Q22. The set of all real $x$ satisfying $\sqrt{x+3-4\sqrt{x-1}}+\sqrt{x+8-6\sqrt{x-1}}=1$ is
+   (A) $\varnothing$
+   (B) $\{10\}$
+   (C) $\{5\}$
+   (D) $[5,10]$
+
+Q23. $\left(7+4\sqrt3\right)^{1/2}-\left(7-4\sqrt3\right)^{1/2}=$
+   (A) $2$
+   (B) $2\sqrt3$
+   (C) $4\sqrt3$
+   (D) $4$
+
+Q24. If $x=\dfrac{1}{2-\sqrt3}$, then $x^{3}-2x^{2}-7x+5=$
+   (A) $3$
+   (B) $2$
+   (C) $5$
+   (D) $1$
+
+Q25. $\sqrt[3]{2+\sqrt5}+\sqrt[3]{2-\sqrt5}=$
+   (A) $0$
+   (B) $-1$
+   (C) $2$
+   (D) $1$
