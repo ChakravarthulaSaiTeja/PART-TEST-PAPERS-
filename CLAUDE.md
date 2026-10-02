@@ -231,7 +231,7 @@ tools/audit/               those dumps, plus the flat keys to paste into the pro
 | 03 Quadratic Equations | 15 ⚠️ | 15 ⚠️ | 15 ⚠️ | 25 ✅ *(real AIEEE/JEE-Main PYQs)* | ✅ | **TODO** | **TODO** |
 | 04 Sequences & Series | **TODO** | **TODO** | **TODO** | **TODO** | **TODO** | **TODO** | **TODO** |
 
-**05 Integrated Papers** (mixed-chapter, JEE Main pattern, 25 Qs): Paper I ✅ — paper, zero report, all four passes clean (2 Oct 2026). Replaces the earlier "Hell Paper I"; Teja asked for the Hell tag to be dropped. A **zero report** = key grid, question-wise chapter/concept/level/key table, errors-found-and-corrected log, observations, one-line key verification per question, verification method. Built by `05-Integrated-Papers/src/build.py`.
+**05 Integrated Papers** (mixed-chapter, JEE Main pattern, 25 Qs): Paper I (Main, 25 Qs) ✅ and Paper II (Advanced, 18 Qs: 8 integer, 6 multi-correct, 4 single) ✅ — papers, zero reports, all four passes clean (2 Oct 2026). They replace the earlier "Hell Paper I/II"; Teja asked for the Hell tag to be dropped. A **zero report** = key grid, question-wise chapter/concept/level/key table, errors-found-and-corrected log, observations, one-line key verification per question, verification method. Built by `05-Integrated-Papers/src/build.py` and `build_p2.py`.
 
 ⚠️ = first draft, short of the 25 target. All keys in it are verified; there are just
 not enough questions yet.
