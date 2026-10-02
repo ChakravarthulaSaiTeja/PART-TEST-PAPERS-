@@ -215,6 +215,7 @@ source-pages/              every page of all four, rendered to PNG (110 dpi, 962
 02-Logarithms/             papers/  keys/  solutions/  src/
 03-Quadratic-Equations/    papers/  keys/  solutions/  src/
 04-Sequences-and-Series/   papers/  keys/  solutions/  src/
+05-Integrated-Papers/      papers/  keys/  src/   (mixed-chapter Main papers + zero reports)
 tools/mkaudit.py           dumps built papers back to LaTeX blocks for the audit pass
 tools/audit/               those dumps, plus the flat keys to paste into the prompt
 ```
@@ -229,6 +230,8 @@ tools/audit/               those dumps, plus the flat keys to paste into the pro
 | 02 Logarithms | 25 ✅ | 25 ✅ | 25 ✅ | 25 ✅ *(JEE-pattern — no PYQ source)* | ✅ | **TODO** | ✅ clean |
 | 03 Quadratic Equations | 15 ⚠️ | 15 ⚠️ | 15 ⚠️ | 25 ✅ *(real AIEEE/JEE-Main PYQs)* | ✅ | **TODO** | **TODO** |
 | 04 Sequences & Series | **TODO** | **TODO** | **TODO** | **TODO** | **TODO** | **TODO** | **TODO** |
+
+**05 Integrated Papers** (mixed-chapter, JEE Main pattern, 25 Qs): Paper I ✅ — paper, zero report, all four passes clean (2 Oct 2026). Replaces the earlier "Hell Paper I"; Teja asked for the Hell tag to be dropped. A **zero report** = key grid, question-wise chapter/concept/level/key table, errors-found-and-corrected log, observations, one-line key verification per question, verification method. Built by `05-Integrated-Papers/src/build.py`.
 
 ⚠️ = first draft, short of the 25 target. All keys in it are verified; there are just
 not enough questions yet.
